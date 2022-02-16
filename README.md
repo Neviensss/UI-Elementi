@@ -2,11 +2,13 @@
 UI-Elementi unity 
 
 **Uzdevumu saraksts**
-- [ ] Button elements
-- [ ] Text elements
-- [ ] Input Field elements
-- [ ] Toggle elements
+- [x] Button elements
+- [x] Text elements
+- [x] Input Field elements
+- [x] Toggle elements
+- [x] Image elements
 - [ ] Panel elements
 - [ ] Slider elements
 - [ ] Audio source elements
-- [ ] Skriptu izveide (C#)
+- [ ] Drop Down elements
+- [x] Skriptu izveide (C#)
