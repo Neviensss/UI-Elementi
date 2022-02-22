@@ -7,8 +7,8 @@ UI-Elementi unity
 - [x] Input Field elements
 - [x] Toggle elements
 - [x] Image elements
-- [ ] Panel elements
-- [ ] Slider elements
-- [ ] Audio source elements
-- [ ] Drop Down elements
+- [x] Panel elements
+- [x] Slider elements
+- [x] Audio source elements
+- [x] Drop Down elements
 - [x] Skriptu izveide (C#)
